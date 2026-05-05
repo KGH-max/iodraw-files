@@ -1,1 +1,1 @@
-{"xAxis":{"type":"category","data":["Mon"]},"yAxis":{"type":"value"},"series":[{"data":[150],"type":"line","center":["50%","55%"]}],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
+{"xAxis":{"type":"category","data":["\\"]},"yAxis":{"type":"value"},"series":[{"data":["50"],"type":"line","center":["50%","55%"]}],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
